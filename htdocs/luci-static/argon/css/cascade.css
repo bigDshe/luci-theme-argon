@@ -261,7 +261,7 @@ li {
   align-items: flex-start;
   min-height: 100%;
   z-index: 2;
-  width: 420px;
+  width:  420px;
   box-shadow: rgba(0, 0, 0, 0.75) 0px 0px 35px -5px;
   margin-left: 5%;
   background: transparent;
